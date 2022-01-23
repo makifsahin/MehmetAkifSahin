@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648991368640",
+    "project_id": "mehmetakifsahin-2ab1d",
+    "storage_bucket": "mehmetakifsahin-2ab1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648991368640:android:7bdfe62fba05b39cd05425",
+        "android_client_info": {
+          "package_name": "com.example.mehmet_akif_sahin_mobil_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648991368640-62cdsg0ita85eushjrcu9t2bnbu0fpue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOJZQYOSzq65AW5HrY6UETWldlB-gZgSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648991368640-62cdsg0ita85eushjrcu9t2bnbu0fpue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
